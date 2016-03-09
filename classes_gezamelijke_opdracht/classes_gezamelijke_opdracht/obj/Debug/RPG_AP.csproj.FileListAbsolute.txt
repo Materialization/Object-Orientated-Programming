@@ -1,0 +1,14 @@
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\RPG_AP.csprojResolveAssemblyReference.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\MainWindow.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\App.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht_MarkupCompile.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht_MarkupCompile.lref
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\bin\Debug\classes_gezamelijke_opdracht.exe.config
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\bin\Debug\classes_gezamelijke_opdracht.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\bin\Debug\classes_gezamelijke_opdracht.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\MainWindow.baml
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht.g.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht.Properties.Resources.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\RPG_AP.csproj.GenerateResource.Cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\classes_gezamelijke_opdracht\classes_gezamelijke_opdracht\obj\Debug\classes_gezamelijke_opdracht.pdb

@@ -1,0 +1,28 @@
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.exe.config
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.csprojResolveAssemblyReference.cache
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\MainWindow.g.cs
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\App.g.cs
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht_MarkupCompile.cache
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht_MarkupCompile.lref
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.exe
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.pdb
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\MainWindow.baml
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.g.resources
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.Properties.Resources.resources
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.csproj.GenerateResource.Cache
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.exe
+c:\users\materializer\documents\visual studio 2015\Projects\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.exe.config
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.csprojResolveAssemblyReference.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\MainWindow.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\App.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht_MarkupCompile.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht_MarkupCompile.lref
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\bin\Debug\Semester2_klas_opdracht.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\MainWindow.baml
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.g.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.Properties.Resources.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Leraar stof\Semester2_klas_opdracht\Semester2_klas_opdracht\obj\Debug\Semester2_klas_opdracht.csproj.GenerateResource.Cache

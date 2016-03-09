@@ -1,0 +1,14 @@
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\bin\Debug\Opdr 14.4 Neerslaggegevens.exe.config
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens.csprojResolveAssemblyReference.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\MainWindow.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\App.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens_MarkupCompile.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens_MarkupCompile.lref
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\bin\Debug\Opdr 14.4 Neerslaggegevens.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\bin\Debug\Opdr 14.4 Neerslaggegevens.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\MainWindow.baml
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens.g.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr_14._4_Neerslaggegevens.Properties.Resources.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens.csproj.GenerateResource.Cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\object orientated programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Opdr 14.4 Neerslaggegevens\obj\Debug\Opdr 14.4 Neerslaggegevens.pdb
