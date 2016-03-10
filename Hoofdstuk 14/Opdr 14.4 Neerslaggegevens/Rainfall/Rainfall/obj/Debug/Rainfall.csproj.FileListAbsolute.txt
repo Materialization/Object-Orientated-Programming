@@ -1,0 +1,14 @@
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\bin\Debug\Rainfall.exe.config
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\bin\Debug\Rainfall.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\bin\Debug\Rainfall.pdb
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.csprojResolveAssemblyReference.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\MainWindow.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\App.g.cs
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall_MarkupCompile.cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall_MarkupCompile.lref
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\MainWindow.baml
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.g.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.Properties.Resources.resources
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.csproj.GenerateResource.Cache
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.exe
+C:\Users\Materializer\Dropbox\AP ARTESIS Prive\Object Orientated Programming\Hoofdstuk 14\Opdr 14.4 Neerslaggegevens\Rainfall\Rainfall\obj\Debug\Rainfall.pdb
